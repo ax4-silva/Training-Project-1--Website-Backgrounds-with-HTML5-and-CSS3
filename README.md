@@ -1,32 +1,19 @@
-# Counting Machine
+# Training Project 1: Website Backgrounds with HTML5 and CSS3
 
-## Summary
-The **Counting Machine** project is a simple web application designed to help developers practice their skills in HTML, CSS, and JavaScript. It focuses on creating an interactive counting interface that allows users to increment and decrement a value, reinforcing fundamental web development concepts.
+## Description
 
-## Skills
+This project explores the creative side of web design, focusing on the art of incorporating mesmerizing backgrounds that enhance the visual experience of a website. Through the use of HTML5 and CSS3, it demonstrates how to seamlessly integrate videos, gradients, and animations to create immersive, dynamic layouts that captivate users.
 
-### HTML/CSS Proficiency
-- Understanding of HTML5 structure and semantics.
-- Styling web pages using CSS3 for layout and design.
+## Objectives
 
-### JavaScript Fundamentals
-- Knowledge of JavaScript for creating interactive web applications.
-- Implementing functions for incrementing and decrementing values.
-
-### DOM Manipulation
-- Ability to manipulate the Document Object Model (DOM) to update the user interface dynamically.
-
-### Event Handling
-- Handling user inputs and events (e.g., button clicks) to trigger actions in the application.
-
-### Basic Web Development
-- Combining HTML, CSS, and JavaScript to create a cohesive web application.
-- Understanding the workflow of front-end development.
-
-### Version Control
-- Familiarity with Git for version control and collaboration on projects.
+- Learn to use HTML5 and CSS3 to create attractive backgrounds.
+- Experiment with different design techniques, including background videos and gradients.
+- Develop layouts that provide an engaging user experience.
 
 ## Technologies Used
-- HTML
-- CSS
-- JavaScript
+
+- **HTML5**: Structuring the content of the page.
+- **CSS3**: Styling and animating elements.
+- **JavaScript**: (optional) For additional interactivity.
+
+
